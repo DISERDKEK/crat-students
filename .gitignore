@@ -1,0 +1,22 @@
+# Залежності
+node_modules/
+
+# Збірки
+dist/
+build/
+.parcel-cache/
+
+# Змінні оточення 
+.env
+.env.local
+
+# Системні файли та налаштування редакторів
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
